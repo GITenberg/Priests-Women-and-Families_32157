@@ -16,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Michelet
     - http://fr.wikipedia.org/wiki/Jules_Michelet
 description: 'Translation of: Du prêtre, de la femme et de la famille'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32157#Priests-Women-and-Families
 gutenberg_issued: '2010-04-28'
 gutenberg_type: Text
 identifiers:
