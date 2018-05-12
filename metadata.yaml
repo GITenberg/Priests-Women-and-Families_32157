@@ -1,0 +1,36 @@
+_repo: Priests-Women-and-Families_32157
+_version: 0.1.0
+alternative_title: Du prêtre, de la femme et de la famille. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+description: 'Translation of: Du prêtre, de la femme et de la famille'
+gutenberg_issued: '2010-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women and religion'
+- !lcsh 'Catholic Church -- Controversial literature'
+- !lcsh 'Families'
+- !lcc 'BX'
+- !lcsh 'Celibacy -- Catholic Church'
+- !lcsh 'Catholic Church -- Doctrines'
+- !lcsh 'Catholic Church -- Clergy'
+title: Priests, Women, and Families
+url: http://www.gutenberg.org/ebooks/32157
